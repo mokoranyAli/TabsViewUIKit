@@ -148,7 +148,7 @@
 			isa = PBXGroup;
 			children = (
 				A2639C4E268762A500FBCBE0 /* TabView */,
-				A2639C55268762A500FBCBE0 /* PageViewController.swift */,
+				A2CFA56926963BC700B5E7AA /* Controller */,
 			);
 			path = PageViewController;
 			sourceTree = "<group>";
@@ -178,6 +178,14 @@
 				A2639C54268762A500FBCBE0 /* TabCollectionViewCell.xib */,
 			);
 			path = Cell;
+			sourceTree = "<group>";
+		};
+		A2CFA56926963BC700B5E7AA /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				A2639C55268762A500FBCBE0 /* PageViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
