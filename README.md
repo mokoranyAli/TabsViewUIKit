@@ -1,6 +1,6 @@
 # TabsViewUIKit
 
-Code using SwiftUI :- https://github.com/mokoranyAli/TabsViewSwiftUI/edit/main/README.md
+Code using SwiftUI :- https://github.com/mokoranyAli/TabsViewSwiftUI
 
 Tabs view:
 
